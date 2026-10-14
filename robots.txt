@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ZAMENITE vasdomen.rs SVOJIM DOMENOM
+Sitemap: https://kn3zzz.github.io/sitemap.xml
